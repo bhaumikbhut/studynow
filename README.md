@@ -1,7 +1,6 @@
 # Conduit QA — Playwright + TypeScript
 
 Automated tests for the [Conduit app](https://conduit.bondaracademy.com).
-See [GSP test strategy](docs/gsp-test-strategy.md) for Part 2 of the assessment.
 
 ## Run the tests
 
